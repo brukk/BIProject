@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_stgAddress"
   DTS:PackageType="5"
-  DTS:VersionBuild="189"
-  DTS:VersionGUID="{2F3EAB1F-6E9D-4029-95BA-9CD743004902}">
+  DTS:VersionBuild="190"
+  DTS:VersionGUID="{873C25AB-7E11-47EF-A1C1-A3E33F6800A9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
